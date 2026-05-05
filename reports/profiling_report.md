@@ -50,7 +50,7 @@ They are only populated for specific complaint types:
 
 | Column | Null Rate | Notes |
 |--------|-----------|-------|
-| descriptor_2 | 55.6% | Specialty field, kept but excluded from analysis |
+| descriptor_2 | 55.6% | Specialty field dropped due to redundancy |
 | landmark | 45.8% | Only populated for park-related complaints |
 | intersection_street_1/2 | ~39% | Populated when no street address exists |
 | cross_street_1/2 | ~35% | Same as above |
