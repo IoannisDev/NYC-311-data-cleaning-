@@ -71,7 +71,7 @@ Open and run `notebooks/data_cleaning.ipynb` top to bottom (Kernel → Restart &
 
 Full details in [reports/profiling_report.md](reports/profiling_report.md).
 
-![alt text](plot/densityplt.png)
+![alt text](plot/park_heatmap.png)
 > Density plot of 311 calls in New York City
 ## Known Limitations
 - Data covers January 1–20, 2023 only due to a 150,000 row API cap
